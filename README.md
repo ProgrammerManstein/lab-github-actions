@@ -2,7 +2,7 @@
 
 [![Build Status](https://github.com/ProgrammerManstein/lab-github-actions/actions/workflows/workflow.yml/badge.svg)](https://github.com/ProgrammerManstein/lab-github-actions/actions)
 
-This is for NYU DevOps lab on using GitHub Actions with Redis for Continuous Integration
+This is for NYU DevOps lab(ProgrammerManstein) on using GitHub Actions with Redis for Continuous Integration
 
 ## Introduction
 
